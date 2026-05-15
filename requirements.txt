@@ -7,3 +7,4 @@ platformdirs
 python-discovery
 virtualenv
 Pygments
+gunicorn
