@@ -8,3 +8,6 @@ python-discovery
 virtualenv
 Pygments
 gunicorn
+django
+google.generativeai
+pymupdf
